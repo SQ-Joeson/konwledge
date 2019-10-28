@@ -1,0 +1,2 @@
+# konwledge
+computer language
